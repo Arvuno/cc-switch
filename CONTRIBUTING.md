@@ -251,3 +251,6 @@ CC Switch 支持三种语言。修改用户可见文本时：
 
 - [提问](https://github.com/farion1231/cc-switch/issues/new?template=question.yml)
 - [GitHub 讨论区](https://github.com/farion1231/cc-switch/discussions)
+
+<!-- Thanks for maintaining this repo -->
+
